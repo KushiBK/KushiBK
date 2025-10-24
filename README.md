@@ -1,3 +1,13 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+${YOUR_NAME};💻+Full+Stack+Developer;🌐+Open+Source+Contributor;🚀+Tech+Enthusiast" alt="Typing SVG">
+</h1>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ## 🧭 About Me
 
 ```python
@@ -278,54 +288,3 @@ It includes:
     <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue">
   </p>
 </details>
-
----
-
-## 🧭 Recent Activity
-<!--START_SECTION:activity-->
-1. ⚡ Created repository [arjun-dev-27/Django-FastAPI-Starter]  
-2. 🔥 Merged PR [#7] in [arjun-dev-27/SkillSprint]  
-3. 🚀 Deployed project [Portfolio Website] on Netlify  
-4. 🧠 Contributed to [Open Source FastAPI Repo]  
-<!--END_SECTION:activity-->
-
----
-
-## 🕓 Coding Stats
-```text
-Python       ████████████████████░░░░   82% 
-JavaScript   ████████████░░░░░░░░░░░   58%
-HTML/CSS     ████████████░░░░░░░░░░░   64%
-SQL          ████████░░░░░░░░░░░░░░░   45%
-````
-
----
-
-## ✨ About Me
-
-🎯 **Building scalable web apps with modern Python frameworks.**
-🌱 Currently exploring **AI integrations with FastAPI & React**.
-💬 Ask me about **APIs, backend architecture, or full-stack projects**.
-⚡ Fun Fact: “My code runs faster than my coffee machine.” ☕
-
----
-
-<!-- Footer with Animated Wave -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E6E6&height=100&section=footer" width="100%"/>
-
-</div>
-```
-
----
-
-### 🔮 Highlights of this version:
-
-* **Gradient header & footer waves**
-* **Neon blue “cyber aesthetic”**
-* **Particle-free lightweight animation (works natively on GitHub)**
-* **Dynamic badges, trophies, and live GitHub analytics**
-* **Auto-updating contribution and activity sections**
-* **Fully responsive — looks good on both dark & light themes**
-
----
