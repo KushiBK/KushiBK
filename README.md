@@ -16,10 +16,10 @@
   <a href="https://www.linkedin.com/in/bhavana-bk-05710824a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B4mB2j8AnT%2FC5Wv7vvuH35Q%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Bhavana-BK" target="_blank">
+  <a href="https://github.com/KushiBK/KushiBK/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:bhavana.bk.dev@gmail.com" target="_blank">
+  <a href="bkbhavana40@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://bhavana-portfolio.netlify.app" target="_blank">
