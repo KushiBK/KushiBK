@@ -38,7 +38,7 @@
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,sql" />
 </p>
 
 ### 🧩 Frameworks & Libraries
