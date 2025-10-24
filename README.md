@@ -41,15 +41,7 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,sql" />
 </p>
 
-### 🧩 Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,react,bootstrap,tailwind" />
-</p>
 
-### ☁️ DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws" />
-</p>
 
 ---
 
