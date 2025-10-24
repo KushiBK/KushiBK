@@ -6,7 +6,7 @@
   <div style="display:flex; gap:18px; align-items:center;">
     <img src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME?s=200" alt="avatar" width="120" height="120" style="border-radius:16px; object-fit:cover; border:2px solid #e6eef8;">
     <div>
-      <h1 style="margin:0; font-size:28px;">Hi — I'm <strong>YOUR_NAME</strong> 👋</h1>
+      <h1 style="margin:0; font-size:28px;">Hi — I'm <strong>Bhavana B K</strong> 👋</h1>
       <p style="margin:6px 0 0 0; color: #374151; max-width:650px;">
         YOUR_BIO — Full-Stack Developer specializing in Django & React. Passionate about building scalable web applications, clean code architecture, and developer experience.
       </p>
